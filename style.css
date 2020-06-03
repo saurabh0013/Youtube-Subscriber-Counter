@@ -1,0 +1,34 @@
+
+body{
+    background-color:  #47476b
+    
+;
+}
+p{
+    font-family: Acme;
+    color: #ffffff;
+    font-size: larger;
+
+}
+h1 {
+    color:  #ffffff;
+    font-family: Tenali Ramakrishna;
+    text-align: center;
+}
+#carry{
+    float: left;
+    margin: 20px;
+  }
+#amit{margin: 20px;
+    float: left;
+   }
+#Bhuwan{margin: 20px;
+    float: left;
+ }
+ #Ashish{
+    float: left;
+    margin: 20px;
+  }
+#img{border-radius: 50%;
+width: 150px;
+height: 150px;}     
